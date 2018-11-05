@@ -1,0 +1,51 @@
+body {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c7e6f3+24,51c9ed+54,c7e6f3+71,c0e3f2+87 */
+    background: rgb(199, 230, 243); /* Old browsers */
+    background: -moz-linear-gradient(-45deg, rgba(199, 230, 243, 1) 24%, rgba(81, 201, 237, 1) 54%, rgba(199, 230, 243, 1) 71%, rgba(192, 227, 242, 1) 87%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, rgba(199, 230, 243, 1) 24%, rgba(81, 201, 237, 1) 54%, rgba(199, 230, 243, 1) 71%, rgba(192, 227, 242, 1) 87%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, rgba(199, 230, 243, 1) 24%, rgba(81, 201, 237, 1) 54%, rgba(199, 230, 243, 1) 71%, rgba(192, 227, 242, 1) 87%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c7e6f3', endColorstr='#c0e3f2', GradientType=1); /* IE6-9 fallback on horizontal gradient */
+    color: #0c5460 !important;
+}
+
+.Background{
+    background-image: url("Visuels/onde.png");
+}
+
+#Photo{
+    margin: 5px;
+}
+
+.BLOC1, .BLOC2, .BLOC3, .BLOC4, .BLOC5 {
+    background:#7f7f7f;
+    background:rgba(255,255,255,0.5);
+    margin: 5%;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #38B5DB;
+
+}
+
+h1{
+    color: white !important;
+    text-shadow: 3px 3px 3px #0c5460;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+#ParcoursSco, #experiencesPro{
+    padding-left: 20px;
+}
+
+#parcoursSco {
+    display: inline;
+    float: right;
+}
+
+#contactEnvoi {
+    margin: 5px;
+}
+
+
